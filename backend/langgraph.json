@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "medical_graph": "app.graph:graph"
+  },
+  "env": ".env"
+}
