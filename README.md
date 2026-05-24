@@ -1,4 +1,4 @@
-# Diagnostic Medical LangGraph
+# Diagnostic Medical
 
 
 ## Architecture
